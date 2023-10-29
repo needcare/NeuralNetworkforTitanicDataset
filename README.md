@@ -12,4 +12,4 @@ https://www.kaggle.com/c/titanic/data
 
 The rights to the course belong to Coursera and deeplearning.ai.
 
-*
+**Please note**: Reuse of this notebook needs to comply with the licenses and agreements of the original course and any cited sources.
